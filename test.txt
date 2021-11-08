@@ -1,2 +1,3 @@
 Ändra här...
 Lagt till ny rad
+Ändra rad för demo av Git GUI
